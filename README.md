@@ -10,5 +10,5 @@
 
 - 202255169 이지훈 역할: 코딩한 크롤러가 사이트에서 검색어를 입력하면 책의 목록들을 가격별로 가져오는 데이터를 크롤링하는 크롤러를 코딩 후 github에 업로드
 
-크롤링할 사이트 url: https://book.naver.com/search/search.naver?sm=sta_hty.book&sug=&where=nexearch&query=+keyword
-(*keyword는 검색어)
+크롤링할 사이트 url: https://book.naver.com/search/search.naver?sm=sta_hty.book&sug=&where=nexearch&query=맑음
+(*맑음은 검색어, 다른 것을 대체 가능)
